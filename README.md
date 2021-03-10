@@ -2,8 +2,8 @@
 <h3 align="left">A MERN Stack Developer</h3>
 
 - 🌱 I’m currently learning **Everything 😂**
-- 
-- 💬 Ask me about **JavaScript & React**
+ 
+- 💬 Ask me about **JavaScript & MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://divyansh.netlify.app/](https://divyansh.netlify.app/)
 
