@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/i_m.divyansh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="i_m.divyansh" height="30" width="40" /></a>
 <a href="https://fb.com/dîvy áñsh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dîvy áñsh" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/introvertcoder.in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/introvertcoder.in/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/introvertcoder.in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/introvertcoder.in/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
