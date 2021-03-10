@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Divyansh Basera</h1>
-<h3 align="center">A MERN Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Divyansh Basera</h1>
+<h3 align="left">A MERN Stack Developer</h3>
 
 - 🌱 I’m currently learning **Everything 😂**
 
