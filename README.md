@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KIokIDCSU43p7GmM32H7WiZa2D_v2RvD/view](https://drive.google.com/file/d/1KIokIDCSU43p7GmM32H7WiZa2D_v2RvD/view)
 
-- What Do I Believe **What we know is a drop , what we don't is an Ocean.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
