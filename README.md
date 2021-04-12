@@ -5,7 +5,7 @@
  
 - 💬 Ask me about **JavaScript & MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://divyansh.netlify.app/](https://divyansh.netlify.app/)
+- 👨‍💻 Some of my Best projects are available at [https://divyansh.netlify.app/](https://divyansh.netlify.app/)
 
 - 📫 How to reach me **Divyanshbasera36@gmail.com**
 
